@@ -6,7 +6,7 @@ function App() {
     <div className="App">
      <img src='/logo192.png' alt=''/>
      <img src={logo} alt=""/>
-     
+     <h1>test</h1>
     </div>
   );
 }
